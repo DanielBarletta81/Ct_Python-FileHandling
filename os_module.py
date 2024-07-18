@@ -26,7 +26,10 @@ def directory_contents(path):
         list_files = os.listdir(path)
         print(list_files)
 
+# output: Enter the directory path. /Users/dbarletta_mb_pro/Desktop/Eastern Oyster
 
+#['Restoration', 'Oysters in New England.pdf', 'Ermgassen_13_Filtration_Loss_Service.pdf', 
+# 'Waldbrusser _11-Bicalcification_pH.pdf', 'Physicochemical', 'Rosa13_FeedingSelectivity_Oys_BM.pdf']
 
 
 
